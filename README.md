@@ -4,7 +4,7 @@ A collection of jupyter notebooks containing examples of MAST API usage.
 ## Contents
 
 ### Mast Astroquery Functionality Demo Notebooks
-1.  [MAST Astroquer yFunctionality Demo](AstroqueryFunctionalityDemo.ipynb)
+1.  [MAST Astroquery Functionality Demo](AstroqueryFunctionalityDemo.ipynb)
 
 ### Tutorials created for the the MAST Users Group meeting - January 2018
 1. [MAST Web Service API Tutorial](MUG2018_APITutorial_Webservice.ipynb)
