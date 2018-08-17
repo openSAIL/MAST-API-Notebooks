@@ -1,14 +1,21 @@
 # MAST-API-Notebooks
-A collection of jupyter notebooks containing examples of MAST API usage.
+A collection of jupyter notebooks containing examples of MAST API usage.  The tutorials are organized loosely into mission folders.
 
 ## Contents
 
-### Mast Astroquery Functionality Demo Notebooks
-1.  [MAST Astroquery Functionality Demo](AstroqueryFunctionalityDemo.ipynb)
+### AstroqueryIntro - General Tutorials for MAST Astroquery
+1.  [General Introduction to MAST Astroquery](AstroqueryIntro/AstroqueryFunctionalityDemo.ipynb)
 
-### Tutorials created for the the MAST Users Group meeting - January 2018
-1. [MAST Web Service API Tutorial](MUG2018_APITutorial_Webservice.ipynb)
-2. [MAST Astroquery API Tutorial](MUG2018_APITutorial_Astroquery.ipynb)
+### HST - Tutorials Based on HST Data or Metadata
+1.  [Getting HST Proposal IDs From A List of Targets][HST/HVC_siIV_Abstracts.ipynb]
 
-### Tutorial created for the TESS Science Team Meeting - February 2018
-1. [TESS API Tutorial, Using K2 As A Proxy](tess_mast_api_example.ipynb)
+### K2 - Tutorials Based on K2 Data or Metadata
+1. [Retrieving K2 HLSP Light Curves Centered on M67](K2/k2_mast_api_example.ipynb)
+
+### MUG - Tutorials created for the the MAST Users Group meeting - January 2018
+1. [MAST Web Service API Tutorial](MUG/MUG2018_APITutorial_Webservice.ipynb)
+2. [MAST Astroquery API Tutorial](MUG/MUG2018_APITutorial_Astroquery.ipynb)
+
+### TESS - Tutorials Based on TESS Data or Metadata
+1. [Getting K Dwarfs South of -30 Declination From The TIC](TESS/tic_mast_api_example.ipynb)
+2. [Cone Search For Dwarf Stars Near HD 209458 From The TIC](TESS/TessTutorial-DwarfsNearHD209458.ipynb)
