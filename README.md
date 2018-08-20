@@ -7,10 +7,11 @@ A collection of jupyter notebooks containing examples of MAST API usage.  The tu
 1. [General Introduction to MAST Astroquery](AstroqueryIntro/AstroqueryFunctionalityDemo.ipynb)
 
 ### HLSP - Tutorials For MAST High Level Science Products
-1. [K2SNE: Stacking Multiple Warp Cutoutss Into A Single Stacked Image][HLSP/K2SNE/k2sne_stack.ipynb]
+1. [K2SNE: Stacking Multiple Warp Cutoutss Into A Single Stacked Image](HLSP/K2SNE/k2sne_stack.ipynb)
 
 ### HST - Tutorials Based on HST Data or Metadata
-1. [Getting HST Proposal IDs From A List of Targets][HST/HVC_siIV_Abstracts.ipynb]
+1. [Getting HST Proposal IDs From A List of Targets](HST/HVC_siIV_Abstracts.ipynb)
+2. [Accessing and Downloading HST Data by Proposal ID](HST/HST_Data_Access.ipynb)
 
 ### K2 - Tutorials Based on K2 Data or Metadata
 1. [Retrieving K2 HLSP Light Curves Centered on M67](K2/k2_mast_api_example.ipynb)
