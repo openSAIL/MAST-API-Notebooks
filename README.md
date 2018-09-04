@@ -16,6 +16,11 @@ A collection of jupyter notebooks containing examples of MAST API usage.  The tu
 ### K2 - Tutorials Based on K2 Data or Metadata
 1. [Retrieving K2 HLSP Light Curves Centered on M67](K2/k2_mast_api_example.ipynb)
 
+### Kepler - Tutorials Based on Kepler Data or Metadata
+1. [An Introduction to Kepler Lightcurve Files](KEPLER/Kepler_Lightcurve)
+1. [An Introduction to Kepler Target Pixel Files](KEPLER/Kepler_TPF)
+1. [An Introduction to Kepler Full Frame Images](KEPLER/Kepler_FFI)
+
 ### MUG - Tutorials created for the the MAST Users Group meeting - January 2018
 1. [MAST Web Service API Tutorial](MUG/MUG2018_APITutorial_Webservice.ipynb)
 2. [MAST Astroquery API Tutorial](MUG/MUG2018_APITutorial_Astroquery.ipynb)
