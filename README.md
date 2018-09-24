@@ -29,3 +29,6 @@ A collection of jupyter notebooks containing examples of MAST API usage.  The tu
 ### TESS - Tutorials Based on TESS Data or Metadata
 1. [Getting K Dwarfs South of -30 Declination From The TIC](TESS/tic_mast_api_example.ipynb)
 2. [Cone Search For Dwarf Stars Near HD 209458 From The TIC](TESS/TessTutorial-DwarfsNearHD209458.ipynb)
+
+### HSC - Tutorials based on HSC Data or Metadata
+1. [TAP HSC Functionality Demo] (HSC/TAP_HSC_functionality_demo.ipynb)
