@@ -31,4 +31,4 @@ A collection of jupyter notebooks containing examples of MAST API usage.  The tu
 2. [Cone Search For Dwarf Stars Near HD 209458 From The TIC](TESS/TessTutorial-DwarfsNearHD209458.ipynb)
 
 ### HSC - Tutorials based on HSC Data or Metadata
-1. [TAP HSC Functionality Demo] (HSC/TAP_HSC_functionality_demo.ipynb)
+1. [TAP HSC Functionality Demo](HSC/TAP_HSC_functionality_demo.ipynb)
