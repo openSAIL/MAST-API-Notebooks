@@ -5,6 +5,7 @@ A collection of jupyter notebooks containing examples of MAST API usage.  The tu
 
 ### AstroqueryIntro - General Tutorials for MAST Astroquery
 1. [General Introduction to MAST Astroquery](AstroqueryIntro/AstroqueryFunctionalityDemo.ipynb)
+2. [Observations and Catalogs Example: Overly HSC and Gaia sources on an HST Image](AstroqueryIntro/dotAstroX_plotSourcesOverHst.ipynb)
 
 ### HLSP - Tutorials For MAST High Level Science Products
 1. [K2SNE: Stacking Multiple Warp Cutoutss Into A Single Stacked Image](HLSP/K2SNE/k2sne_stack.ipynb)
